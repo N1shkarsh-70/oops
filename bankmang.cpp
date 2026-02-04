@@ -65,6 +65,7 @@ class SavingsAccount:public BankAccount{
 int main(){
 
     char choice;
+    cout<<"bank management system";
     cout<<"\n\n\t\t\t\t======================\n";
     cout<<"\t\t\t\tBANK MANAGEMENT SYSTEM";
     cout<<"\n\t\t\t\t======================\n";
